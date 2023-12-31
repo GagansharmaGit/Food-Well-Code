@@ -1,0 +1,1 @@
+export default "dummy.js" // created dummy png file dummy.js nothing means
