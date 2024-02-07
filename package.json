@@ -1,7 +1,7 @@
 {
-  "name": "ignition_out_app",
+  "name": "Food-Well",
   "version": "1.0.0",
-  "description": "this is from ep2 of namaste react",
+  "description": "",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
